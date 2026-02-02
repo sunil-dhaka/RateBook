@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_products">
+
+    <fragment
+        android:id="@+id/nav_products"
+        android:name="com.example.ratebook.ui.products.ProductListFragment"
+        android:label="@string/menu_products"
+        tools:layout="@layout/fragment_product_list" />
+
+    <fragment
+        android:id="@+id/nav_product_edit"
+        android:name="com.example.ratebook.ui.products.ProductEditFragment"
+        android:label="@string/add_product"
+        tools:layout="@layout/fragment_product_edit" />
+
+    <fragment
+        android:id="@+id/nav_categories"
+        android:name="com.example.ratebook.ui.categories.CategoryListFragment"
+        android:label="@string/menu_categories"
+        tools:layout="@layout/fragment_category_list" />
+
+    <fragment
+        android:id="@+id/nav_units"
+        android:name="com.example.ratebook.ui.units.UnitListFragment"
+        android:label="@string/menu_units"
+        tools:layout="@layout/fragment_unit_list" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.ratebook.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>
