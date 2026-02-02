@@ -9,15 +9,16 @@ A simple, powerful Android app designed for small shop owners in India to manage
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/01_product_list.png" width="250" alt="Product List"/>
-  <img src="docs/screenshots/02_navigation.png" width="250" alt="Navigation Drawer"/>
-  <img src="docs/screenshots/03_add_product.png" width="250" alt="Add Product"/>
+  <img src="docs/screenshots/01_product_list.png" width="200" alt="Product List"/>
+  <img src="docs/screenshots/02_navigation.png" width="200" alt="Navigation Drawer"/>
+  <img src="docs/screenshots/03_categories.png" width="200" alt="Categories"/>
+  <img src="docs/screenshots/04_units.png" width="200" alt="Measurement Units"/>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/04_categories.png" width="250" alt="Categories"/>
-  <img src="docs/screenshots/05_units.png" width="250" alt="Measurement Units"/>
-  <img src="docs/screenshots/06_settings.png" width="250" alt="Settings"/>
+  <img src="docs/screenshots/05_edit_unit.png" width="200" alt="Edit Unit"/>
+  <img src="docs/screenshots/06_settings.png" width="200" alt="Settings"/>
+  <img src="docs/screenshots/07_add_product.png" width="200" alt="Add Product"/>
 </p>
 
 ---
