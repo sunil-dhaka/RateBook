@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="180">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="0" width="4" height="180" rx="2" fill="#60a5fa" opacity="0.8"/>
+  <!-- Book/ledger -->
+  <rect x="88" y="54" width="44" height="56" rx="3" stroke="#93c5fd" stroke-width="2" fill="none"/>
+  <!-- Book spine -->
+  <line x1="96" y1="54" x2="96" y2="110" stroke="#93c5fd" stroke-width="2"/>
+  <!-- Ledger lines -->
+  <line x1="102" y1="68" x2="126" y2="68" stroke="#60a5fa" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  <line x1="102" y1="78" x2="126" y2="78" stroke="#60a5fa" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  <line x1="102" y1="88" x2="126" y2="88" stroke="#60a5fa" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  <line x1="102" y1="98" x2="126" y2="98" stroke="#60a5fa" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  <!-- Rupee symbol -->
+  <g transform="translate(124, 104)" opacity="0.7">
+    <circle cx="0" cy="0" r="10" fill="#0d1117" stroke="#fbbf24" stroke-width="1.5"/>
+    <text x="0" y="4.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#fbbf24">&#x20B9;</text>
+  </g>
+  <!-- Text -->
+  <text x="190" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#e6edf3" letter-spacing="2">RateBook</text>
+  <text x="190" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e" letter-spacing="0.5">Inventory Management</text>
+  <line x1="190" y1="122" x2="410" y2="122" stroke="#21262d" stroke-width="1"/>
+  <text x="190" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">Simple product tracking for Indian shopkeepers</text>
+</svg>

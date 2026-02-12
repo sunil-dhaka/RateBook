@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="RateBook Banner" width="100%"/>
+</p>
+
 # RateBook
 
 **Inventory Management App for Indian Shopkeepers**
