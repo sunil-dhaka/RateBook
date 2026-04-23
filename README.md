@@ -14,23 +14,18 @@ A simple, powerful Android app designed for small shop owners in India to manage
 
 A visual walkthrough of the app.
 
-![01 Product List](assets/01_product_list.png)
-*Home screen showing the searchable product list with filter and sort chips.*
-
-![02 Navigation Drawer](assets/02_nav_drawer.png)
-*Side drawer to jump between Products, Categories, Units, and Settings.*
-
-![03 Categories](assets/03_categories.png)
-*Manage product categories with quick edit and delete actions.*
-
-![04 Units](assets/04_units.png)
-*Bilingual measurement units (English and Hindi) ready out of the box.*
-
-![05 Settings](assets/05_settings.png)
-*Backup and restore all inventory data and photos via a single ZIP file.*
-
-![06 Add Product](assets/06_add_product.png)
-*Add a product with photo, prices, category, unit, and notes.*
+<table align="center">
+  <tr>
+    <td width="33%" align="center"><img src="assets/01_product_list.png" width="230" alt="Product List"/><br/><sub>Product list with search & sort</sub></td>
+    <td width="33%" align="center"><img src="assets/02_nav_drawer.png" width="230" alt="Navigation Drawer"/><br/><sub>Navigation drawer</sub></td>
+    <td width="33%" align="center"><img src="assets/03_categories.png" width="230" alt="Categories"/><br/><sub>Manage categories</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="assets/04_units.png" width="230" alt="Units"/><br/><sub>Bilingual measurement units</sub></td>
+    <td width="33%" align="center"><img src="assets/05_settings.png" width="230" alt="Settings"/><br/><sub>Backup & restore</sub></td>
+    <td width="33%" align="center"><img src="assets/06_add_product.png" width="230" alt="Add Product"/><br/><sub>Add a product</sub></td>
+  </tr>
+</table>
 
 ---
 
