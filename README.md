@@ -12,18 +12,25 @@ A simple, powerful Android app designed for small shop owners in India to manage
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshots/01_product_list.png" width="200" alt="Product List"/>
-  <img src="docs/screenshots/02_navigation.png" width="200" alt="Navigation Drawer"/>
-  <img src="docs/screenshots/03_categories.png" width="200" alt="Categories"/>
-  <img src="docs/screenshots/04_units.png" width="200" alt="Measurement Units"/>
-</p>
+A visual walkthrough of the app.
 
-<p align="center">
-  <img src="docs/screenshots/05_edit_unit.png" width="200" alt="Edit Unit"/>
-  <img src="docs/screenshots/06_settings.png" width="200" alt="Settings"/>
-  <img src="docs/screenshots/07_add_product.png" width="200" alt="Add Product"/>
-</p>
+![01 Product List](assets/01_product_list.png)
+*Home screen showing the searchable product list with filter and sort chips.*
+
+![02 Navigation Drawer](assets/02_nav_drawer.png)
+*Side drawer to jump between Products, Categories, Units, and Settings.*
+
+![03 Categories](assets/03_categories.png)
+*Manage product categories with quick edit and delete actions.*
+
+![04 Units](assets/04_units.png)
+*Bilingual measurement units (English and Hindi) ready out of the box.*
+
+![05 Settings](assets/05_settings.png)
+*Backup and restore all inventory data and photos via a single ZIP file.*
+
+![06 Add Product](assets/06_add_product.png)
+*Add a product with photo, prices, category, unit, and notes.*
 
 ---
 
